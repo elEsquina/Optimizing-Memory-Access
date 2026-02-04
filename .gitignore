@@ -1,0 +1,73 @@
+# Python
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# C/C++ compiled files
+*.exe
+*.out
+*.o
+*.obj
+*.a
+*.so
+*.dll
+*.dylib
+
+# Executables (specific to exercises)
+exercice1_O0
+exercice1_O2
+memory_debug
+mxm
+mxm_bloc
+
+# Generated result files
+*.txt
+results_*.txt
+mxm_results.txt
+mxm_bloc_results.txt
+
+# Valgrind output
+vgcore.*
+*.log
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+*~
+.*.swp
+
+# Build directories
+build/
+dist/
+*.egg-info/
+
+# Docker
+.dockerignore
+
+# IDE
+.idea/
+*.iml
+
+# Backup files
+*.bak
+*.backup
